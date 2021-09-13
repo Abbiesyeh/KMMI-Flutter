@@ -1,7 +1,6 @@
 # kmmi_food_app
-
-- Muhammad Irfan Ardiansyah
-- 1917051034
+NAMA : ABBBIE SYEH NAHRI
+NPM  : 1917051018
 
 ## Getting Started
 
